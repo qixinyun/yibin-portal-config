@@ -18,3 +18,6 @@
     * [0.1.2](./Docs/Version/0.1.2.md "0.1.2")
     * [0.1.3](./Docs/Version/0.1.3.md "0.1.3")
     * [0.1.4](./Docs/Version/0.1.4.md "0.1.4")
+    * [0.1.5](./Docs/Version/0.1.5.md "0.1.5")
+    * [0.1.6](./Docs/Version/0.1.6.md "0.1.6")
+    * [0.1.7](./Docs/Version/0.1.7.md "0.1.7")
